@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Clinton-dev/movie-search-app/static/css/main.2bfe288a.chunk.css",
+    "main.js": "/Clinton-dev/movie-search-app/static/js/main.79b2c461.chunk.js",
+    "main.js.map": "/Clinton-dev/movie-search-app/static/js/main.79b2c461.chunk.js.map",
+    "runtime-main.js": "/Clinton-dev/movie-search-app/static/js/runtime-main.3d589925.js",
+    "runtime-main.js.map": "/Clinton-dev/movie-search-app/static/js/runtime-main.3d589925.js.map",
+    "static/js/2.a9a8143a.chunk.js": "/Clinton-dev/movie-search-app/static/js/2.a9a8143a.chunk.js",
+    "static/js/2.a9a8143a.chunk.js.map": "/Clinton-dev/movie-search-app/static/js/2.a9a8143a.chunk.js.map",
+    "static/js/3.8c59d79b.chunk.js": "/Clinton-dev/movie-search-app/static/js/3.8c59d79b.chunk.js",
+    "static/js/3.8c59d79b.chunk.js.map": "/Clinton-dev/movie-search-app/static/js/3.8c59d79b.chunk.js.map",
+    "index.html": "/Clinton-dev/movie-search-app/index.html",
+    "static/css/main.2bfe288a.chunk.css.map": "/Clinton-dev/movie-search-app/static/css/main.2bfe288a.chunk.css.map",
+    "static/js/2.a9a8143a.chunk.js.LICENSE.txt": "/Clinton-dev/movie-search-app/static/js/2.a9a8143a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3d589925.js",
+    "static/js/2.a9a8143a.chunk.js",
+    "static/css/main.2bfe288a.chunk.css",
+    "static/js/main.79b2c461.chunk.js"
+  ]
+}
